@@ -31,7 +31,8 @@ golang-tutorial https://golangbot.com
       fmt.Println(createQuery(o))
   }
 ```
-这个例子非常简单，定义一个结构体，创建了一个接受该结构体的函数，并在main函数中调用,输出了insert into order values(1234,567)
+这个例子非常简单，定义一个结构体，创建了一个接受该结构体的函数，并在main函数中调用,输出了insert into order values(1234,567)。
+
 例2
 ```
   package main
